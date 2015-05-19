@@ -12,8 +12,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
-    <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
-    <orderEntry type="library" name="Maven: opensymphony:sitemesh:2.5-atlassian-5" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: opensymphony:sitemesh:2.4.2" level="project" />
     <orderEntry type="library" name="Maven: org.webjars:bootstrap:2.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.webjars:jquery:1.8.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:3.2.1.RELEASE" level="project" />

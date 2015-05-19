@@ -14,10 +14,10 @@
         <!-- Dependency Versions -->
         <spring.version>3.2.1.RELEASE</spring.version>
         <jstl.version>1.2</jstl.version>
-        <servlet.version>2.5</servlet.version>
+        <servlet.version>3.0.1</servlet.version>
         <bootstrap.version>2.2.2</bootstrap.version>
         <jquery.version>1.9.0</jquery.version>
-        <sitemesh.version>2.5-atlassian-5</sitemesh.version>
+        <sitemesh.version>2.4.2</sitemesh.version>
         <commons-lang.version>2.6</commons-lang.version>
     </properties>
     <dependencies>
@@ -30,17 +30,18 @@
 
         <!-- Servlet & JSTL -->
         <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>jstl</artifactId>
-            <version>${jstl.version}</version>
-        </dependency>
+           <groupId>javax.servlet</groupId>
+           <artifactId>jstl</artifactId>
+           <version>${jstl.version}</version>
+       </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
-            <artifactId>servlet-api</artifactId>
+            <artifactId>javax.servlet-api</artifactId>
             <version>${servlet.version}</version>
         </dependency>
 
-        <!-- Display template & layout -->
+
+       <!-- Display template & layout -->
         <dependency>
             <groupId>opensymphony</groupId>
             <artifactId>sitemesh</artifactId>
