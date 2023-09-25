@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <!-- Dependency Versions -->
-        <spring.version>3.2.1.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <jstl.version>1.2</jstl.version>
         <servlet.version>3.0.1</servlet.version>
         <bootstrap.version>2.2.2</bootstrap.version>
